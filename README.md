@@ -19,6 +19,11 @@ This script helps you change your network interface address (MAC) as per the giv
 
 ## How to setup Automatic MAC Changer
 
+>**Install github**
+```console
+apt install git
+```
+
 >**Clone AMC from github**
 ```console
  git clone "https://github.com/ritikslathiarajput/MAC-ADDRESS-CHANGER.git"
